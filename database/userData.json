@@ -1,0 +1,44 @@
+{
+  "aaa@ashdkjashdkja.in": {
+    "name": "AAAAAAAAAAAAA",
+    "password": "0a7654298c088a52c55cac0ab75587f1ca5608ec072652f7d399a5f8379327de9243f60c3bff9f6802220893d40c41d7e99d933683edb8af5ce0ea3327710e70",
+    "age": 18,
+    "role": "superAdmin",
+    "email": "aaa@ashdkjashdkja.in",
+    "permission": true,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFhYUBhc2hka2phc2hka2phLmluIiwiaWF0IjoxNjc4NzA0ODM2fQ.RxSB5tJGKFmIb0IUWNIZmwHM_19tok1BLFrdcPzriAs"
+  },
+  "aaa@ashdkjasshdkja.in": {
+    "name": "AAAAAAAAAAAAA",
+    "password": "0a7654298c088a52c55cac0ab75587f1ca5608ec072652f7d399a5f8379327de9243f60c3bff9f6802220893d40c41d7e99d933683edb8af5ce0ea3327710e70",
+    "age": 18,
+    "role": "user",
+    "email": "aaa@ashdkjasshdkja.in",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFhYUBhc2hka2phc3NoZGtqYS5pbiIsImlhdCI6MTY3ODcwNDg5OX0.J-ziWmIqWD56qgOQEgW6RJ7XVYsHDDb3ebEZPFwgKqM"
+  },
+  "aaa@ashdkjasssshdkja.in": {
+    "name": "AAAAAAAAAAAAA",
+    "password": "0a7654298c088a52c55cac0ab75587f1ca5608ec072652f7d399a5f8379327de9243f60c3bff9f6802220893d40c41d7e99d933683edb8af5ce0ea3327710e70",
+    "age": 18,
+    "role": "admin",
+    "email": "aaa@ashdkjasssshdkja.in",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFhYUBhc2hka2phc3Nzc2hka2phLmluIiwiaWF0IjoxNjc4NzA0OTA2fQ.Lizsg3CwJAfv4R0IM8pa-9mBRrlL6RFOd8icL_oxw0U",
+    "permission": false
+  },
+  "aaa@ashdkjassssshdkja.in": {
+    "name": "AAAAAAAAAAAAA",
+    "password": "b5d701da4ecf12f9ee0b64c46693f5baa7ed4f3d349b4d5842188de6ef1e6cc652dd4223b6c92c33f442f24988cb717def2ca39d568f9ee52a91c50975ae79bf",
+    "age": 18,
+    "role": "admin",
+    "email": "aaa@ashdkjassssshdkja.in",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFhYUBhc2hka2phc3Nzc3NoZGtqYS5pbiIsImlhdCI6MTY3ODcwNTM4MH0.EkP0BxVZ3xWbUMwmUZebiE0OgORl4qu0N5Ic1043voU"
+  },
+  "aaa@ashdkjasssssshdkja.in": {
+    "name": "AAAAAAAAAAAAA",
+    "password": "b5d701da4ecf12f9ee0b64c46693f5baa7ed4f3d349b4d5842188de6ef1e6cc652dd4223b6c92c33f442f24988cb717def2ca39d568f9ee52a91c50975ae79bf",
+    "age": 18,
+    "role": "superAdmin",
+    "email": "aaa@ashdkjassssshdkja.in",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFhYUBhc2hka2phc3Nzc3NoZGtqYS5pbiIsImlhdCI6MTY3ODcwNTM4MH0.EkP0BxVZ3xWbUMwmUZebiE0OgORl4qu0N5Ic1043voU"
+  }
+}
